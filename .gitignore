@@ -1,4 +1,4 @@
-# Ignore everything except the explicit addon source files below.
+# Allow only addon source and the approved README/screenshots.
 *
 !/.gitignore
 !/VendorGuard.toc
@@ -7,3 +7,10 @@
 !/Comparison.lua
 !/Minimap.lua
 !/VendorGuard.lua
+!/README.md
+!/screenshots/
+/screenshots/*
+!/screenshots/mage-bags-and-ammunition.png
+!/screenshots/mage-weapon-comparisons.png
+!/screenshots/hunter-ranged-comparisons.png
+!/screenshots/vendorguard-options.png
