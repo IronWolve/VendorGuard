@@ -6,6 +6,8 @@ Vendor highlights and compact gear comparisons for **World of Warcraft: Forever*
 
 **Version:** `0.3.0-beta.6` · **Interface:** `16001` · **Dependencies:** None
 
+**[Download the beta](https://github.com/IronWolve/VendorGuard/releases/tag/v0.3.0-beta.6)** · [Report an issue](https://github.com/IronWolve/VendorGuard/issues)
+
 VendorGuard adds subtle color fills to the default merchant window so you can spot unmet requirements, unrelated profession tools, and lower weapon DPS before spending your money. Optional comparison labels put the numbers directly beside vendor items. Open settings with the minimap button or `/vg`.
 
 ## See it in action
@@ -61,11 +63,13 @@ Quivers, ammo pouches, arrows, and bullets are recognized for **Hunters, Warrior
 
 ## Install
 
-1. Select **Code → Download ZIP** on this repository.
-2. Extract it and rename the `VendorGuard-main` folder to **`VendorGuard`**.
+1. Open the [v0.3.0-beta.6 release](https://github.com/IronWolve/VendorGuard/releases/tag/v0.3.0-beta.6) and download **`VendorGuard-0.3.0-beta.6.zip`** under **Assets**.
+2. Extract the **`VendorGuard`** folder from that ZIP.
 3. Place it in your Forever client's **`Interface/AddOns/`** directory.
 4. Confirm that **`Interface/AddOns/VendorGuard/VendorGuard.toc`** exists, without an extra nested folder.
 5. Enable **VendorGuard** in the game's AddOns list. If updating while the game is open, type **`/reload`**.
+
+The install ZIP contains only the six runtime addon files. If you use GitHub's **Source code (zip)** download instead, rename its `VendorGuard-…` folder to `VendorGuard` before installing.
 
 ## Make it yours
 
