@@ -1,0 +1,9 @@
+# Ignore everything except the explicit addon source files below.
+*
+!/.gitignore
+!/VendorGuard.toc
+!/Rules.lua
+!/Items.lua
+!/Comparison.lua
+!/Minimap.lua
+!/VendorGuard.lua
