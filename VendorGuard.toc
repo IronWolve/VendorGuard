@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: VendorGuard
+## Notes: For World of Warcraft: Forever. Vendor requirement colors and gear stat comparisons.
+## Author: IronWolve
+## Version: 0.3.0-beta.6
+## SavedVariables: VendorGuardDB
+
+Rules.lua
+Items.lua
+Comparison.lua
+Minimap.lua
+VendorGuard.lua
